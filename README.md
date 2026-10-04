@@ -47,7 +47,7 @@ I am focused on developing a strong, versatile technical foundation spanning sof
   vulnerability assessments using standard industry tools.
 
 ### 🐍 [Python Security Toolkit](https://github.com/Mayank-gaur09/security-toolkit) 🐍
-- Developed 5 functional scripts including a socket-based 
+- Developed 6 functional scripts including a socket-based 
   TCP network scanner and a live log parser.
 
 ---
