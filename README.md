@@ -50,6 +50,11 @@ I am focused on developing a strong, versatile technical foundation spanning sof
 - Developed 6 functional scripts including a socket-based 
   TCP network scanner and a live log parser.
 
+
+
+***AND MORE***
+
+
 ---
 
 
